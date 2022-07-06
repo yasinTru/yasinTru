@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Test Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **everything about Testing**
+- 🌱 I’m currently learning **everything about Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasinTru?tab=repositories](https://github.com/yasinTru?tab=repositories)
 
