@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Test Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java Spring**
 
 - 🚀 Currently looking for Software Testing job opportunities
 
